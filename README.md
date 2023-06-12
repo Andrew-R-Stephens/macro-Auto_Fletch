@@ -22,7 +22,7 @@
 <br>
 
 <h3>Overview</h3>
-This is a macro which records cycles of click events. It then uses the recorded clicks to execute timed events for you. freeing your hands or freeing you from the computer altogether.
+This is a solution (macro) which records cycles of click events. It then uses the recorded clicks to execute timed events for you. freeing your hands or freeing you from the computer altogether.
 `This is not an injection, a hack, or anything malicious. It simply produces an interactive overlay over your entire screen.`
 
 <br>
